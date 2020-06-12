@@ -7,7 +7,7 @@ I am from *asansol engineering college* .
 
 ## Task 1  
 
-###This task contains :  
+### This task contains :  
  
 	1) Code working with integers and float variables.  
 	2) Code that includes :  
@@ -18,7 +18,7 @@ I am from *asansol engineering college* .
 
 ## Task 2  
 
-###This task contains :  
+### This task contains :  
   
 	1) 7 different methods of lists, tuples, sets, dictionaries.  
 	2) Answers of the following questions:  
