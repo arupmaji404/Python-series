@@ -1,0 +1,21 @@
+Q1) Why is list used ?
+
+--> List is actually a collection of data grouped together.
+They are used for orderly collection of data where the data may or may not be same as other.
+Here we can easily access each elements with index numbers and can perform many operations such as addition, substraction, reverse, etc.
+
+Q2) How do lists and sets differ ?
+
+--> Lists and sets are collection of data but there are certain differences.
+   1) Lists has certain order but no order is followed in sets.
+   2) Lists can have duplicate values but sets can't have.
+   3) There are many operations in set such as intersection, difference, union, etc which are not available in lists.
+
+Q3) Application of dictionaries with real world example.
+
+--> Dictionaries have a very large implementations.
+
+Just for example, our phone book, it can be considered as a dictionary.
+The names of the persons can be considered as keys and their corresponding phone numbers as their values.
+
+Another example is finding an employer with the help of employee id.
